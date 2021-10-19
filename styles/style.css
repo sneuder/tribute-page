@@ -1,0 +1,45 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.container-blocks {
+	width: 90%;
+}
+
+.name-character__title {
+	width: 100%;
+	text-align: center;
+}
+
+.image-character {
+	width: 100%;
+}
+
+.image-character__picture {
+	width: 100%;
+	border-radius: 5px;
+}
+
+.image-character__captionpic {
+	width: 100%;
+	text-align: center;
+}
+
+.thingsdone {
+	width: 100%;
+}
+
+.thingsdone__title {
+	width: 100%;
+	text-align: center;
+}
+
+.footer-info {
+	width: 100%;
+}
+
+.footer-info__info {
+	width: 100%;
+	text-align: center;
+}
